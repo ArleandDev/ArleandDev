@@ -1,4 +1,4 @@
-<h1 align="center">E aí 👋, sou Luan "Arleand" Andrade</h1>
+<h1 align="center">E aí 👋, sou Luan de Andrade</h1>
 <h3 align="center">Artista free-lancer e Desenvolvedor Junior</h3>
 
 - 🔭 Atualmente estagiando na **Inova Tech Jr** como Web Designer
