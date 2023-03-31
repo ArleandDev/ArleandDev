@@ -1,9 +1,9 @@
 <h1 align="center">E aí 👋, sou Luan de Andrade</h1>
-<h3 align="center">Artista free-lancer e Desenvolvedor Junior</h3>
+<h3 align="center">Desenvolvedor Junior e Ilustrador free-lancer</h3>
 
 - 🔭 Atualmente estagiando na **Inova Tech Jr** como Web Designer
 
-- 🌱 Atualmente estudando **Web design, arte digital e Java**
+- 🌱 Atualmente estudando **UI Design, Java e Godot**
 
 <h3 align="left">Carrd: https://arleandarts.carrd.co </h3>
 <p align="left">
