@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estagiando na **Inova Tech Jr** como Web Designer
 
-- 🌱 Atualmente estudando **UI Design, Java e Godot**
+- 🌱 Atualmente estudando **UI Design, Java, Javascript, HTML, CSS e Godot**
 
 <h3 align="left">Carrd: https://arleandarts.carrd.co </h3>
 <p align="left">
