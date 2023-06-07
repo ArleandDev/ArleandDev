@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estudando **UI Design e Java**
 
-- 🧐 Próximas linguagens e ferramentas que tenho interesse em aprender: **Javascript, HTML, CSS e Godot**
+- 🧐 Linguagens e ferramentas que tenho interesse em aprender: **Javascript, HTML, CSS e Godot**
 
 <h3 align="left">Carrd: https://arleandarts.carrd.co </h3>
 <p align="left">
