@@ -1,7 +1,7 @@
 <h1 align="center">E aí 👋, sou Luan de Andrade</h1>
 <h3 align="center">Desenvolvedor Junior e Ilustrador free-lancer</h3>
 
-- 🔭 Atualmente estagiando na **Inova Tech Jr** como Web Designer
+- 🔭 Atualmente cursando Ciência da Computação na **FACAPE**
 
 - 🌱 Atualmente estudando **UI Design e Godot**
 
