@@ -8,7 +8,7 @@
 - 🧐 Tenho interesse em aprender: **Javascript, HTML, CSS**
 
 <h3 align="left">Carrd: https://arleandarts.carrd.co </h3>
-<h3 align="left">Acompanhe o desenvolvimento de AOKAKI: https://twitter.com/ConchaIndigo & https://www.instagram.com/ConchaIndigo/ </h3>
+<h3 align="left">Acompanhe AOKAKI, meu jogo em desenvolvimento: https://twitter.com/ConchaIndigo & https://www.instagram.com/ConchaIndigo/ </h3>
 <p align="left">
 </p>
 
