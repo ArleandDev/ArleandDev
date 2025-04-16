@@ -1,4 +1,4 @@
-<h1 align="center">E aí 👋, sou Luan de Andrade</h1>
+<h1 align="center">Olá 👋, sou Luan de Andrade</h1>
 <h3 align="center">Desenvolvedor Junior e Ilustrador free-lancer</h3>
 
 - 🔭 Atualmente cursando Ciência da Computação na **FACAPE**
